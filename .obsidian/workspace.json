@@ -4,31 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "5c883e672348dac2",
+        "id": "91864adbb186c7d4",
         "type": "tabs",
         "children": [
           {
-            "id": "cecf0dbfa72a6f94",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9a96abdeadee0fd",
+            "id": "582ee1557ff9a7be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team Information.md",
+                "file": "Documentation/How does this team work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff652989fde33044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile/Sprint 1/Sprint 1 Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0514160c80e76221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile/Sprint 1/April 10, 2023 Minutes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b21cd5f0b7e894e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile/Sprint 1/Sprint 1 Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65441294069806d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/How does this team work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51a2504bf5c79f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile/Sprint 1/Sprint 1 Planning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -78,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 533.5
   },
   "right": {
     "id": "b37ed3fedd3c5d70",
@@ -94,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team Information.md",
+                "file": "Agile/Sprint 1/Sprint 1 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Team Information.md",
+                "file": "Agile/Sprint 1/Sprint 1 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team Information.md"
+                "file": "Agile/Sprint 1/Sprint 1 Planning.md"
               }
             }
           }
@@ -155,8 +207,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9a96abdeadee0fd",
+  "active": "51a2504bf5c79f30",
   "lastOpenFiles": [
-    "Team Information.md"
+    "Agile/Sprint 1/April 10, 2023 Minutes.md",
+    "Agile/Sprint 1/Sprint 1 Planning.md",
+    "Agile/Sprint 1/Sprint 1 Backlog.md",
+    "Agile/Sprint 1/Sprint 1 Team Availability.md",
+    "Documentation/How does this team work.md",
+    "Documentation/How does this documentation work.md",
+    "Agile/Agile Backlog/Agile Backlog.md",
+    "Agile/Agile Backlog",
+    "Agile/Sprint 1",
+    "Documentation/Requirement Documentation Interpretation.md",
+    "Documentation/Team/Team.md",
+    "Documentation/Team/Members/Abhay Pramod.md",
+    "Untitled.canvas",
+    "Agile.md",
+    "Agile",
+    "Documentation/Team/Members/Ritu Raj Singh.md",
+    "Documentation",
+    "Documentation/Team/Members/Vighnesh Pradhan.md",
+    "Documentation/Team/Members/Thrishalini.md",
+    "Documentation/Team/Members/Subeshreenee K A.md",
+    "Documentation/Team/Members/Naman Alagh.md",
+    "Documentation/Team/Members/Indrajeet Gupta.md",
+    "Documentation/Team/Members/Devam Antahal.md",
+    "Documentation/Team/Members/Aryaman Shrivastava.md",
+    "Documentation/Team/Members/Aksh Kalyani.md",
+    "Documentation/Team/Members",
+    "Documentation/Team",
+    "General",
+    "2023-04-11.md"
   ]
 }

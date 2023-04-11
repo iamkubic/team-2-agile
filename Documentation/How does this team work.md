@@ -1,0 +1,9 @@
+- The [[Team]] consists of 10 members.
+- Each member is expected to contribute towards the project at every level and at every step.
+- Each member has a strong point which has been highlighted in [[Team]]. This is going to be their primary field of expertise. However, all members will be having a part in all sections of the development process.
+- There will be a scrum stand-up meeting every day to discuss activities.
+- A sprint will be 5 days long.
+- At the end of every sprint, there shall be an "End of Sprint" meeting to discuss backlogs and plan for the next sprint.
+- Total time availability shall be taken into consideration.
+- A meeting shall be held to do away with any ambiguity that arises.
+- The team will refer to the GitHub repository for any reference.
